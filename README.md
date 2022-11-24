@@ -6,7 +6,8 @@ Author: Emily J King, https://www.math.colostate.edu/~king/
 
 In this lab, different "approximately linear" data sets are generated and different aspects of principal component analysis are explored.
 
-Current version: Only Matlab Live Script.  Jupyter Notebook coming soon.
+Current version: Matlab Live Script .mlx.  Download and use in Matlab.  
+Coming soon: Jupyter Notebook.
 
 Note: This lab does not make use of the Statistics and Machine Learning Toolbox, which has a pca function. 
 If you look at the documentation of that function, then applying it to the data matrix X' yields the outputs coeff, 
